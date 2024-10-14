@@ -1,13 +1,22 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
+    degreepath: Clinical Fellowship in Pediatric Anesthesia # for type.education.
+    institution: World Federation of Societies of Anesthesiologists (WFSA)
+    department: Pediatric Anesthesia Training in Africa
+    advisors: Mary T Nabukenya, Janat Tumukunde, Faye Evans # for type.education.
     thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
-    notes: In Progress
+    years: 2023 - 2024
+    notes: Completed
+    
+  - type: education
+    degreepath: Masters of Medicine in Anesthesiology and Critical Care # for type.education.
+    institution: Makerere Univerisity 
+    department: Anesthesia and Emergency Medicine
+    advisors: Cornelius Sendagire, Daniel Obua, Sarah Nakubulwa # for type.education.
+    thesis: "Prevalence, associated factors, and outcomes of postpartum critical illness at a National Referral Hospital in Uganda" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2019 - 2023
+    notes: Completed
     
   - type: job
     title: Example Job # for type.employment.
