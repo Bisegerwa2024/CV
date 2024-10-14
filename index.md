@@ -4,13 +4,14 @@ layout: homepage
 
 ## About Me
 
-Testing here
+As a dedicated Ugandan anaesthesia professional, I am driven by a strong passion for improving patient outcomes worldwide through collaborative research, adaptive leadership and mentorship.  I find great fulfilment in training and supporting others to excel and deliver exceptional care. 
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
+- **Computer Vision:** Redcap
+- **Machine Learning:** R
+  
 {% include_relative _includes/education.md %}
 
 {% include_relative _includes/employment.md %}
